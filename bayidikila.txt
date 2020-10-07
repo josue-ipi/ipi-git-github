@@ -1,3 +1,0 @@
-- nom : Bayidikila
-- prenom : Josué
-- password : monmotdepasse
